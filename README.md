@@ -1,2 +1,2 @@
-# MicrosII
-Projetos da disciplina de Sistemas Microprocessados II
+# Micros_II
+Projects from the Microprocessed Systems II course
